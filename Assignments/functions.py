@@ -7,8 +7,13 @@ def top_five_movies(Movie_1, movie_2, movie_3, movie_4, movie_5):
     print("5. " + movie_5)
           
           
-movie_1 = input("what is your favorite movie?") #global variable
-          
+
+print("These are my Top 5 Movies")
+print("Spider Man Far From Home")
+print("Top Gun")
+print("Harry Potter Series")
+print("Kun Fu Panda 2")
+print("Iron Man")      
           
           
           

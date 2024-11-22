@@ -1,0 +1,14 @@
+temperature = 81
+if temperature >= 80:
+    print(str(temperature) + " is hot outside")
+
+    if temperature < 80:
+        print(str(temperature) + " degree is hot ")
+
+        if temperature < 80:
+            print(str(temperature) + " degree is not hot")
+
+            real_password = "skibidi68"
+            
+            input_password = input ("please enter the password")")
+            
